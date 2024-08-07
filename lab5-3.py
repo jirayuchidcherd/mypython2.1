@@ -1,5 +1,5 @@
 def f(c):
-    fx=(9/5)*(c+32)
+    fx=((9/5)*c)+32
     return fx
 
 def k(c):
